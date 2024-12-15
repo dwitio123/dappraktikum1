@@ -29,8 +29,9 @@ public class Praktikum1 {
         int number = 0;
         int space = 0;
         int symbol = 0;
+        int length = input.length();
 
-        for (int i = 0; i < input.length(); i++) {
+        for (int i = 0; i < length; i++) {
             char c = input.charAt(i);
             if (Character.isLetter(c)) {
                 letter++;
