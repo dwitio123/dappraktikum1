@@ -5,11 +5,13 @@ Build #IC-243.21565.193, built on November 13, 2024
 @Author TGS a.k.a. Dwitio Ahmad Pranoto
 Java Developer
 Created on 15/12/2024 22:13
-@Last Modified 15/12/2024 22:13
-Version 1.0
+@Last Modified 16/12/2024 3:31
+Version 1.1
 */
 
 import java.util.Scanner;
+
+//Output dari input Tid4k $@ma adalah 228
 
 public class Praktikum1 {
     public static void main(String[] args) {
